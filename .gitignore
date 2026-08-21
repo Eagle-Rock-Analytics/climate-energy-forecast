@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Build folders
+egg-info/
+
+# Other
+.config/
+.jupyter/
+.local/
+.virtual_environments/
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
