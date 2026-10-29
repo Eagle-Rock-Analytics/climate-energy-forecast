@@ -1,0 +1,20 @@
+state,station_name,STATION,LAT_Y,LON_X,resolution
+CA,Bakersfield Meadows Field (KBFL),BAKERSFIELD,35.43424,-119.05524,3
+CA,Burbank-Glendale-Pasadena Airport (KBUR),BURBANK,34.19966,-118.36543,3
+CA,Fresno Yosemite International Airport (KFAT),FRESNO,36.77999,-119.72016,3
+CA,Gillespie Field Airport (KSEE),SANTEE,32.826111,-116.9725,3
+CA,Imperial County Airport (KIPL),IMPERIAL,32.83464,-115.57656,3
+CA,Long Beach Daugherty Field (KLGB),LONG BEACH,33.81177,-118.14718,3
+NV,McCarran International Airport (KLAS),LAS VEGAS,36.072,-115.163,3
+CA,Merced Municipal Airport MacReady Field (KMCE),MERCED,37.28597,-120.51788,3
+CA,Modesto City-County Airport (KMOD),MODESTO,37.62544,-120.95492,3
+CA,Oakland Metro International Airport (KOAK),OAKLAND,37.7178,-122.23301,3
+CA,Red Bluff Municipal Airport (KRBL),RED BLUFF,40.15186,-122.25478,3
+CA,Riverside Municipal Airport (KRAL),RIVERSIDE,33.95282,-117.43523,3
+CA,Sacramento Executive Airport (KSAC),SACRAMENTO,38.50659,-121.49604,3
+CA,San Diego Lindbergh Field (KSAN),SAN DIEGO,32.7336,-117.1831,3
+CA,San Diego Miramar Wscmo (KNKX),MIRAMAR,32.866667,-117.133333,3
+CA,San Jose International Airport (KSJC),SAN JOSE,37.35938,-121.92444,3
+CA,San Luis Obispo Airport (KSBP),SAN LUIS OBISPO,35.23815,-120.64406,3
+CA,Santa Barbara Municipal Airport (KSBA)(land-based),SANTA BARBARA,34.43,-119.845,3
+CA,Ukiah Municipal Airport (KUKI),UKIAH,39.12781,-123.20015,3

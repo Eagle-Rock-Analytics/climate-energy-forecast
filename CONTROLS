@@ -1,0 +1,7 @@
+# Pipeline bypass switches-- 1 runs the step, 0 skips it
+LOCALIZE = 1
+DETREND = 1
+
+# Station name to process
+# It must match a value in the STATION column of inputs/weather_stations.csv.
+STATION = BAKERSFIELD
